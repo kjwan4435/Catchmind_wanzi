@@ -1,0 +1,14 @@
+{
+  "name": "Catchmind_wanzi",
+  "version": "1.0.0",
+  "description": "Real time Drawing game built with SocketIO, Gulp and Node",
+  "main": "index.js",
+  "repository": "https://github.com/kjwan4435/Catchmind_wanzi.git",
+  "author": "kjwan4435 <kjwan4435@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3",
+    "socket.io": "^2.3.0"
+  }
+}
